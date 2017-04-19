@@ -1,0 +1,21 @@
+{
+  "name": "blog_platform",
+  "version": "1.0.0",
+  "description": "Saule & TK blog platform",
+  "main": "models.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tachyla/blog_post.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tachyla/blog_post/issues"
+  },
+  "homepage": "https://github.com/tachyla/blog_post#readme"
+}
